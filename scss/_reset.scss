@@ -1,0 +1,15 @@
+ul {
+	padding: 0;
+	margin: 0;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+
+.group:after {
+	content: "";
+	display: block;
+	clear: both;
+}

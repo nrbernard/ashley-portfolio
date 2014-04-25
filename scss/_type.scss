@@ -1,0 +1,69 @@
+@include establish-baseline;
+
+$base-font-size: 16px;
+$base-line-height: 16px;
+
+html {
+	font-size: 100%;
+}
+
+body {
+	color: $text;
+	font-family: 'Abel', 'sans-serif';
+}
+
+h1, .title {
+	@include adjust-font-size-to(36px);
+	@include adjust-leading-to(3,36px);
+	color: $text;
+	text-transform: uppercase;
+}
+
+p {
+	@include adjust-font-size-to(22px);
+	@include adjust-leading-to(3,22px);
+	
+}
+
+.title, .degree {
+	@include adjust-font-size-to(64px);
+	color: $yellow;
+	text-shadow: 
+		2px 2px 0px $gray,
+		3px 3px 0px $gray,
+		4px 4px 0px $gray;
+}
+
+.title {
+	display: block;
+	text-align: center;
+	border-bottom: $border;
+	padding-bottom: 2em;
+}
+
+.degree {
+
+	display: inline-block;
+	position: relative;
+	top: -.9em;
+	background: url(../img/lines-bg.png);
+	padding: 0 1em;
+	@include adjust-font-size-to(42px);
+	letter-spacing: .2em;
+
+	/*-webkit-transform: skewY(-8deg);
+	-moz-transform: skewY(-8deg);
+	-o-transform: skewY(-8deg);
+	-ms-transform: skewY(-8deg);
+	transform: skewY(-8deg);*/
+}
+
+a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: $green;
+	&:hover {
+		color: $yellow;
+		@include transition
+	}
+}

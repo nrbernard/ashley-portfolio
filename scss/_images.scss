@@ -1,0 +1,9 @@
+img.me {
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 375px;
+	border-radius: 50%;
+	height: auto;
+	@include trailer(1);
+}

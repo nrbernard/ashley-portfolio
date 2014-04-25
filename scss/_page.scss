@@ -1,0 +1,52 @@
+html {
+	
+}
+
+body {
+	background: $white url(../img/lines-bg.png) repeat;
+}
+
+.container {
+	margin: 0 auto;
+	padding-top: 5%;
+	width: 90%;
+	max-width: 75em;
+}
+
+.block {
+	float: left;
+	width: 100%;
+	@include bp(sm) {
+		width: 50%;
+		padding: 0 2em;
+	}
+}
+
+.site-header {
+	text-align: center;
+	@include bp(lg) {
+		border-right: $border;
+	}
+	@include bp(sm) {
+		min-width: 20em;
+	}
+}
+
+.logo {
+	padding: 0 1em;
+}
+
+.main-content {
+	@include bp(sm) {
+	border-left: $border;
+	}
+	@include bp(lg) {
+	border-left: none;
+	}
+}
+
+.site-footer {
+	@include adjust-font-size-to(12px);
+	width: 100%;
+	text-align: right;
+}
