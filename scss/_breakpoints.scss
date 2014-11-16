@@ -3,13 +3,13 @@
 		@media (min-width: 450px) {@content; }
 	}
 	@if $point == sm {
-		@media (min-width: 700px) {@content; }
+		@media (min-width: 768px) {@content; }
 	}
 	@if $point == md {
-		@media (min-width: 960px) {@content; }
+		@media (min-width: 992px) {@content; }
 	}
 	@if $point == lg {
-		@media (min-width: 1160px) {@content; }
+		@media (min-width: 1200px) {@content; }
 	}
 
 }

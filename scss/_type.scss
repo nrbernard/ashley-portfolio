@@ -3,6 +3,8 @@
 $base-font-size: 16px;
 $base-line-height: 16px;
 
+$default-transition-duration: .25s;
+
 html {
 	font-size: 100%;
 }
@@ -19,10 +21,25 @@ h1, .title {
 	text-transform: uppercase;
 }
 
+article h1 {
+	color: $blue;
+}
+
+h2 {
+	@include adjust-font-size-to(24px);
+	@include adjust-leading-to(1,24px);
+	color: $yellow;
+	text-shadow: 
+		1px 1px 0px $gray;
+}
+
 p {
 	@include adjust-font-size-to(22px);
-	@include adjust-leading-to(3,22px);
-	
+	@include adjust-leading-to(2,22px);	
+}
+
+article li {
+	@include adjust-font-size-to(22px);
 }
 
 .title, .degree {
@@ -37,15 +54,16 @@ p {
 .title {
 	display: block;
 	text-align: center;
-	border-bottom: $border;
-	padding-bottom: 2em;
+	/*border-bottom: $border;
+	padding-bottom: 2em; (Circle Text) */
+	@include padding-trailer(.5);
 }
 
 .degree {
-
 	display: inline-block;
 	position: relative;
-	top: -.9em;
+	/*top: -.9em; (Circle Text) */
+	top: -.6em;
 	background: url(../img/lines-bg.png);
 	padding: 0 1em;
 	@include adjust-font-size-to(42px);
@@ -60,10 +78,18 @@ p {
 
 a {
 	text-decoration: none;
-	text-transform: uppercase;
-	color: $green;
+	color: $blue;
 	&:hover {
 		color: $yellow;
 		@include transition
 	}
+}
+
+ul li a, p.copyright a {
+	letter-spacing: .1em;
+	text-transform: uppercase;
+}
+
+.fa-li {
+	color: $yellow;
 }

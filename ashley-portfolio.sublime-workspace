@@ -1,0 +1,436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ro",
+				"rotateTerm"
+			],
+			[
+				"new",
+				"newTimelineWidth"
+			],
+			[
+				"time",
+				"timelineWidth"
+			],
+			[
+				"timeline",
+				"timelineWidth"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"panel",
+				"totlePanels"
+			],
+			[
+				"ba",
+				"backgroundWidth"
+			],
+			[
+				"timelin",
+				"timelineOffset"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"border-lef",
+				"border-left-width"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"end",
+				"endwhile"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/niceisnick/Sites/nrbernard.github.io/scss/global.scss",
+		"/Users/niceisnick/Sites/nrbernard.github.io/scss/_page.scss",
+		"/Users/niceisnick/Sites/nrbernard.github.io/scss/_buttons.scss",
+		"/Users/niceisnick/Sites/nrbernard.github.io/work/index.html",
+		"/Users/niceisnick/Sites/nrbernard.github.io/_layouts/post.html",
+		"/Users/niceisnick/Sites/nrbernard.github.io/scss/_nav.scss",
+		"/Users/niceisnick/Sites/nrbernard.github.io/scss/_mixins.scss",
+		"/Users/niceisnick/Sites/nrbernard.github.io/scss/_header.scss",
+		"/Users/niceisnick/Sites/nrbernard.github.io/scss/_colors.scss",
+		"/Users/niceisnick/Sites/nrbernard.github.io/scss/_type.scss",
+		"/Users/niceisnick/Sites/nrbernard.github.io/js/scripts.js",
+		"/Users/niceisnick/Sites/nrbernard.github.io/index.html",
+		"/Users/niceisnick/Sites/nrbernard.github.io/blog/index.html",
+		"/Users/niceisnick/Sites/nrbernard.github.io/_posts/2014-02-18-welcome-to-jekyll.markdown",
+		"/Users/niceisnick/Sites/nrbernard.github.io/contact/index.html",
+		"/Users/niceisnick/Sites/nrbernard.github.io/_layouts/default.html",
+		"/Users/niceisnick/Sites/nrbernard.github.io/scss/_bp.scss",
+		"/Users/niceisnick/Sites/ashley-portfolio/ashley-portfolio.sublime-project",
+		"/Users/niceisnick/Sites/ashley-portfolio/_site/robots.txt",
+		"/Users/niceisnick/Sites/ashley-portfolio/_site/.htaccess",
+		"/Users/niceisnick/Sites/ashley-portfolio/_config.yml",
+		"/Users/niceisnick/Sites/ashley-portfolio/_layouts/default.html",
+		"/Users/niceisnick/Sites/ashley-portfolio/contact/index.html",
+		"/Users/niceisnick/Sites/ashley-portfolio/index.html",
+		"/Users/niceisnick/Sites/ashley-portfolio/scss/_type.scss",
+		"/Users/niceisnick/Sites/ashley-portfolio/scss/_header.scss",
+		"/Users/niceisnick/Sites/ashley-portfolio/_site/index.html",
+		"/Users/niceisnick/Sites/ashley-portfolio/resume/index.html",
+		"/Users/niceisnick/Sites/ashley-portfolio/writing/index.html",
+		"/Users/niceisnick/Sites/ashley-portfolio/scss/_colors.scss",
+		"/Users/niceisnick/Sites/ashley-portfolio/scss/_page.scss",
+		"/Users/niceisnick/Sites/ashley-portfolio/scss/_breakpoints.scss",
+		"/Users/niceisnick/Sites/ashley-portfolio/.htpasswd",
+		"/Users/niceisnick/Sites/ashley-portfolio/robots.txt",
+		"/Users/niceisnick/Sites/ashley-portfolio/scss/_reset.scss",
+		"/Users/niceisnick/Sites/ashley-portfolio/.htaccess",
+		"/Users/niceisnick/Sites/nrbernard.github.io/css/global.css",
+		"/Users/niceisnick/Sites/nrbernard.github.io/_site/config.rb",
+		"/Users/niceisnick/Sites/nrbernard.github.io/_includes/footer-scripts.html",
+		"/Users/niceisnick/Sites/nrbernard.github.io/_includes/header.html",
+		"/Users/niceisnick/Sites/nrbernard.github.io/js/global.js",
+		"/Users/niceisnick/Sites/nrbernard.github.io/_layouts/homepage.html",
+		"/Users/niceisnick/Sites/nrbernard.github.io/scss/_reset.scss",
+		"/Users/niceisnick/Sites/nrbernard.github.io/_layouts/full.html",
+		"/Users/niceisnick/Sites/ashley-portfolio/scss/ashley-global.scss",
+		"/Users/niceisnick/Sites/portent-wordpress/wp-content/themes/roots-portent/assets/sass/sass-bootstrap/_custom-variables.scss",
+		"/Users/niceisnick/Sites/portent-wordpress/wp-content/themes/roots-portent/assets/sass/sass-bootstrap/_type.scss",
+		"/Users/niceisnick/Sites/ashley-portfolio/js/vendor/jquery.lettering-0.6.1.min.js",
+		"/Users/niceisnick/Sites/portent-wordpress/portent-wp/wp-config-sample.php",
+		"/Users/niceisnick/Sites/ashley-portfolio/scss/_images.scss",
+		"/Users/niceisnick/Sites/ashley-portfolio/scss/global.scss",
+		"/Users/niceisnick/Sites/nrbernard.github.io/scss/_breakpoints.scss",
+		"/Users/niceisnick/Downloads/initializr 2/index.html",
+		"/Users/niceisnick/Sites/ashley-portfolio/css/global.css",
+		"/Users/niceisnick/Sites/ashley-portfolio/css/main.css",
+		"/Users/niceisnick/Sites/ashley-portfolio/_layouts/global.scss",
+		"/Users/niceisnick/Sites/nrbernard.github.io/_site/css/global.css",
+		"/Users/niceisnick/Sites/kyleandjillian/scss/_page.scss",
+		"/Users/niceisnick/Sites/kyleandjillian/index.php",
+		"/Users/niceisnick/Sites/kyleandjillian/scss/_images.scss",
+		"/Users/niceisnick/Sites/kyleandjillian/scss/_form.scss",
+		"/Users/niceisnick/Sites/kyleandjillian/scss/_nav.scss",
+		"/Users/niceisnick/Sites/kyleandjillian/scss/_buttons.scss",
+		"/Users/niceisnick/Sites/kyleandjillian/scss/_type.scss",
+		"/Users/niceisnick/Sites/portent-timeline/includes/timeline.css",
+		"/Users/niceisnick/Sites/portent-timeline/index.html",
+		"/Users/niceisnick/Downloads/Ex_Files_Jq_IntTime/jquery Timeline Exercise Files/3 - Snippets/a-panel_content.html",
+		"/Users/niceisnick/Downloads/Ex_Files_Jq_IntTime/jquery Timeline Exercise Files/3 - Snippets/b-css_gradient.css",
+		"/Users/niceisnick/Sites/Projects/Timeline/includes/timeline_ie_7_8.css",
+		"/Users/niceisnick/Sites/Projects/Timeline/includes/timeline.js",
+		"/Users/niceisnick/Sites/Projects/Timeline/includes/timeline.css",
+		"/Users/niceisnick/Sites/Projects/Timeline/index.html",
+		"/Users/niceisnick/Sites/Projects/myscript.js",
+		"/Users/niceisnick/Sites/Projects/plugin.html",
+		"/Users/niceisnick/Sites/serp-preview/README.md",
+		"/Users/niceisnick/Downloads/x-default-sitemap.xml",
+		"/Users/niceisnick/Desktop/en-us sitemap.xml",
+		"/Users/niceisnick/Desktop/en-au sitemap.xml",
+		"/Users/niceisnick/Desktop/en-de sitemap.xml",
+		"/Users/niceisnick/Desktop/en-za sitemap.xml",
+		"/Users/niceisnick/Desktop/ja-jp sitemap.xml",
+		"/Users/niceisnick/Desktop/en-jp sitemap.xml",
+		"/Users/niceisnick/x-default-sitemap.xml",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/.htaccess",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/scss/_page.scss",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/scss/global.scss",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/scss/_nav.scss",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/scss/_form.scss",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/scss/_images.scss",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/scss/_type.scss",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/config.rb",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/scss/_colors.scss",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/scss/_buttons.scss",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/scss/_image-slider.scss",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/index.php",
+		"/Users/niceisnick/Sites/nrbernard.github.io/portfolio.html",
+		"/Users/niceisnick/Sites/nrbernard.github.io/snippets.html",
+		"/Users/niceisnick/Sites/serp-preview/js/new-main.js",
+		"/Users/niceisnick/Sites/serp-preview/scss/_form.scss",
+		"/Users/niceisnick/Sites/serp-preview/scss/_variables.scss",
+		"/Users/niceisnick/Sites/serp-preview/scss/_google.scss",
+		"/Users/niceisnick/Sites/serp-preview/scss/global.scss",
+		"/Users/niceisnick/Sites/serp-preview/scss/_type.scss",
+		"/Users/niceisnick/Sites/serp-preview/scss/_bp.scss",
+		"/Users/niceisnick/Sites/serp-preview/scss/_page.scss",
+		"/Users/niceisnick/Sites/serp-preview/index.html",
+		"/Users/niceisnick/Sites/nrbernard.github.io/README.md",
+		"/Users/niceisnick/Sites/nrbernard.github.io/.gitignore",
+		"/Users/niceisnick/Sites/nrbernard.github.io/_drafts/a-sample-draft.md",
+		"/Users/niceisnick/Sites/nrbernard.github.io/cname",
+		"/Users/niceisnick/Sites/nrbernard.github.io/_config.yml",
+		"/Users/niceisnick/Sites/nrbernard.github.io/_site/index.html",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/process.php",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/assets/config.php",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/js/contact-form.js",
+		"/Users/niceisnick/Sites/Boal WordPress/wedding-php/ajax-contact-form-master 2/includes/config.php",
+		"/Users/niceisnick/Sites/wedding/scss/_type.scss",
+		"/Users/niceisnick/Sites/serp-preview/scss/_other.scss",
+		"/Users/niceisnick/Sites/amie/scss/_type.scss",
+		"/Users/niceisnick/Sites/serp-preview/scss/_reset.scss",
+		"/Users/niceisnick/Sites/serp-preview/config.rb",
+		"/Users/niceisnick/Sites/serp-preview/styles/_page.scss",
+		"/Users/niceisnick/Sites/serp-preview/styles/global.scss",
+		"/Users/niceisnick/Sites/serp-preview/styles/style.scss",
+		"/Users/niceisnick/Sites/serp-preview/styles/_main.scss",
+		"/Users/niceisnick/Sites/serp-preview/styles/layouts/_container.scss",
+		"/Users/niceisnick/Sites/portent-wordpress/portent-static/app/serp-preview/index.html",
+		"/Users/niceisnick/Sites/portent-wordpress/portent-static/app/serp-preview/serp-preview.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"=\"#\">",
+			"64",
+			";",
+			"333",
+			"ct",
+			"rotate",
+			"vendor",
+			"black",
+			"gray",
+			"black",
+			"f1f2e9",
+			";\n",
+			".social {\n  padding: 1em .5em;\n  @include bp(xs) {\n  padding: 1em;\n  }\n}",
+			"400",
+			"/200/340",
+			"\"];",
+			"&",
+			"riad",
+			"ul",
+			"height",
+			"$blue",
+			"guests",
+			"name",
+			"Name",
+			"name",
+			"mensagem",
+			"white",
+			"940x528",
+			"Directions",
+			"directions",
+			"Directions",
+			"directions",
+			"Six",
+			"bootstrap",
+			"screenshot",
+			"stylesheet",
+			"ul",
+			"role",
+			";\n",
+			"height",
+			"container",
+			"get_attachment_image",
+			"attr",
+			"wp_get_attachment_image",
+			"0.75",
+			"ADD5C0",
+			"0.2",
+			"://"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"/340/200",
+			"&amp;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ashley-portfolio.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

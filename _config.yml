@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: Ashley Fejeran
 markdown: redcarpet
 pygments: true
+exclude: [scss, jekyll, config.rb, README.md, backup.html, ashley-portfolio.sublime-workspace, ashley-portfolio.sublime-project]

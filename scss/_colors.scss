@@ -1,19 +1,16 @@
 $text: #333;
+$gray: rgb( 163, 162, 157 );
+$border-gray: rgba( 163, 162, 157, .5 );
+$border: 1px solid $border-gray;
+$teal: rgb( 116, 186, 179 );
+$blue: darken($teal, 25%);
 
 $white: rgb( 243, 243, 243 );
 $brown: rgb( 84, 77, 77 );
-$teal: rgb( 116, 186, 179 );
 $light-yellow: rgb( 234, 209, 146 );
-
 $light-teal: rgb( 156, 200, 198 );
 $purple: rgb( 113, 110, 124 );
-
 $yellow: rgb( 233, 195, 109 );
-
 $green: rgb(140,155,139);
 $red: rgb(186,40,27);
 
-$gray: rgb( 163, 162, 157 );
-$border-gray: rgba( 163, 162, 157, .5 );
-
-$border: 1px solid $border-gray;

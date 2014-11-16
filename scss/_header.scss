@@ -1,13 +1,21 @@
 .site-navigation {
-	top: -.9em;
+	/*top: -.9em; */
 	border-bottom: $border;
-	@include padding-trailer(2);
+	border-top: $border;
+	@include padding-trailer(.5);
+	@include padding-leader(.5);
+	@include bp (xs) {
+		@include padding-trailer(2);
+		@include padding-leader(2);
+	}
 	ul li {
-		position: relative;
 		float: left;
 		width: 33%;
 		a {
-			@include adjust-font-size-to(22px);
+			@include adjust-font-size-to(15px);
+			@include bp (xs) {
+				@include adjust-font-size-to(22px);
+			}
 		}
 	}
 }

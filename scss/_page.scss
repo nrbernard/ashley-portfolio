@@ -14,21 +14,21 @@ body {
 }
 
 .block {
-	float: left;
+	margin: 0 auto;
 	width: 100%;
-	@include bp(sm) {
+	@include bp(md) {
+		float: left;
 		width: 50%;
 		padding: 0 2em;
 	}
 }
 
 .site-header {
+	margin: 0 auto;
 	text-align: center;
+	max-width: 42em;
 	@include bp(lg) {
 		border-right: $border;
-	}
-	@include bp(sm) {
-		min-width: 20em;
 	}
 }
 
@@ -37,7 +37,7 @@ body {
 }
 
 .main-content {
-	@include bp(sm) {
+	@include bp(md) {
 	border-left: $border;
 	}
 	@include bp(lg) {
@@ -46,7 +46,19 @@ body {
 }
 
 .site-footer {
-	@include adjust-font-size-to(12px);
+	@include adjust-font-size-to(11px);
+	text-align: center;
 	width: 100%;
-	text-align: right;
+	@include bp(sm) {
+		@include adjust-font-size-to(12px);
+		text-align: right;
+	}
+}
+
+ul.social li {
+	padding: .5em 0;
+}
+
+.fa-li {
+	position: static;
 }
