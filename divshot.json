@@ -1,0 +1,6 @@
+{
+  "name": "ashley-portfolio",
+  "root": "_site",
+  "clean_urls": true,
+  "error_page": "error.html"
+}
