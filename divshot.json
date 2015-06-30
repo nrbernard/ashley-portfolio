@@ -2,5 +2,11 @@
   "name": "ashley-portfolio",
   "root": "_site",
   "clean_urls": true,
-  "error_page": "error.html"
+  "error_page": "error.html",
+  "redirects": {
+    "/assets/Ashley-Fejeran-Resume.pdf": "/",
+    "/contact": "/",
+    "/publications": "/",
+    "/resume": "/"
+  }
 }
